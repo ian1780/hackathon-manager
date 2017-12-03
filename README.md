@@ -2,7 +2,7 @@
 Procurator is a web application meant to assist event organizers while organizing a hackathon, or any other event. It does so by providing a clear representation of all the necessary tasks, in order of date, that the organizing team needs.
 
 ### Installation
-	git clone https://github.com/emily-yu/hackathon-manager.git
+	git clone https://github.com/ian1780/hackathon-manager.git
 	cd init
 	sh generate.sh
 	
